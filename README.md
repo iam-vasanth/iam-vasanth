@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hey, I am Vasanth kumar. I go by vasu or zoro. <br>I'm a linux enthusiast spending most of my time playing around with linux and VMs. Most of my repos here are just personal projects and scripts that<br><br>Currently learning Rust and nix, Cuz why not? ;></p>
+<p align="left">Hey, I am Vasanth kumar. I go by vasu or zoro. I'm a linux enthusiast spending most of my time playing around with linux and VMs. Most of my repos here are just personal projects and scripts that<br><br>Currently learning Rust and nix, Cuz why not? ;></p>
 
 ###
 
