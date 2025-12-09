@@ -1,8 +1,9 @@
-<br clear="both">
-
-<div align="right">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3>iam-vasanth / README.md</h3>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=iam-vasanth.iam-vasanth" />
 </div>
+
+<hr style="border: 0.5px solid #ddd;">
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/iam-vasanth/iam-vasanth/main/misc/profile.jpg" />
 
