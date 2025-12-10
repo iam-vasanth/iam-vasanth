@@ -4,11 +4,11 @@
 
 <hr style="border: 0.5px solid #ddd;">
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/iam-vasanth/iam-vasanth/main/misc/profile.jpg" />
+<img align="right" height="190" src="https://raw.githubusercontent.com/iam-vasanth/iam-vasanth/main/misc/profile.jpg" />
 
 ### Hey, I'm Vasanth Kumar 👋
 
-I go by **Vasu** or **Zoro**. I'm a Linux enthusiast stuck in technical support, actively looking for roles where I can actually use a terminal all day. I spends most of my time tinkering with system, breaking things in VMs, and writing scripts that probably only make sense to me. Currently learning **Rust** and **Nix** because why not make life more difficult? Most repos here are personal projects born from my 2 AM thoughts.
+I go by **Vasu** or **Zoro**. I'm a Linux enthusiast stuck in technical support, actively looking for roles where I can actually use a terminal all day. I spend most of my time tinkering with system, breaking things in VMs, and writing scripts that probably only make sense to me. Currently learning **Rust** and **Nix** because why not make life more difficult? Most repos here are personal projects born from my 2 AM thoughts.
 
 **I use Arch btw** (Soon to be a Nix user)
 
