@@ -1,6 +1,7 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3>iam-vasanth / README.md</h3>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iam-vasanth.iam-vasanth" />
+<br clear="both">
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iam-vasanth.iam-vasanth&"  />
 </div>
 
 <hr style="border: 0.5px solid #ddd;">
@@ -9,7 +10,7 @@
 
 ### Hey, I'm Vasanth Kumar 👋
 
-I go by **Vasu** or **Zoro**. I'm a Linux enthusiast who spends most of my time tinkering with system, breaking things in VMs, and writing scripts that probably only make sense to me. Currently learning **Rust** and **Nix** because why not make life more difficult? Most repos here are personal projects born from my 2 AM thoughts.
+I go by **Vasu** or **Zoro**. I'm a Linux enthusiast stuck in technical support, actively looking for roles where I can actually use a terminal all day. I spends most of my time tinkering with system, breaking things in VMs, and writing scripts that probably only make sense to me. Currently learning **Rust** and **Nix** because why not make life more difficult? Most repos here are personal projects born from my 2 AM thoughts.
 
 **I use Arch btw** (Soon to be a Nix user)
 
@@ -22,15 +23,17 @@ I go by **Vasu** or **Zoro**. I'm a Linux enthusiast who spends most of my time 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo" />
 </div>
 
 <hr style="border: 0.5px solid #ddd;">
@@ -62,6 +65,6 @@ I go by **Vasu** or **Zoro**. I'm a Linux enthusiast who spends most of my time 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stat-gray.vercel.app/api?username=iam-vasanth&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stat-gray.vercel.app/api/top-langs?username=iam-vasanth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stat-gray.vercel.app/api?username=iam-vasanth&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=shadow_blue&private_repo=truelocale=en&hide_border=false&order=1&exclude_repo=github-readme-stat" height="150" alt="stats graph" />
+  <img src="https://github-readme-stat-gray.vercel.app/api/top-langs?username=iam-vasanth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=shadow_blue&hide_border=false&order=2&exclude_repo=github-readme-stat" height="150" alt="languages graph" />
 </div>
